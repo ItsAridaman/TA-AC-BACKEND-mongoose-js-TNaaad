@@ -1,5 +1,7 @@
 writeCode
 
+<!-- .... -->
+
 Q. Update above user schema to include
 
 - favorites field which should store array of strings
